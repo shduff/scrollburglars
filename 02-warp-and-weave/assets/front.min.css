@@ -1,3 +1,7 @@
+#content {
+	overflow:hidden !important;
+}
+
 #cookie-notice {
 	position: fixed;
 	min-width: 100%;
